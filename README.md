@@ -1,4 +1,4 @@
-![MasterHead]([https://www.forte.com.tr/assets/imgs/blog/80.webp](https://i.gifer.com/J4o.gif))
+![welcome to Profile](![J4o](https://github.com/IT21562488/IT21562488/assets/99161794/9c172863-f222-4397-83f8-b9f09b1ea78a))
 <h1 align="center">Hi 👋, I'm Sandali Anjana</h1>
 <h3 align="center">IT undergraduate student</h3>
 
