@@ -1,8 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.forte.com.tr/assets/imgs/blog/80.webp))]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.forte.com.tr/assets/imgs/blog/80.webp)
 <h1 align="center">Hi 👋, I'm Sandali Anjana</h1>
 <h3 align="center">IT undergraduate student</h3>
 
-<img align="right" alt="Working" width="400" scr="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Working" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21562488&label=Profile%20views&color=0e75b6&style=flat" alt="it21562488" /> </p>
 
