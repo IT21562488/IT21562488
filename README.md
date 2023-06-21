@@ -1,4 +1,4 @@
-//[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.forte.com.tr/assets/imgs/blog/80.webp))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.forte.com.tr/assets/imgs/blog/80.webp))]
 <h1 align="center">Hi 👋, I'm Sandali Anjana</h1>
 <h3 align="center">IT undergraduate student</h3>
 
