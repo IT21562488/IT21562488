@@ -1,4 +1,6 @@
-![welcome to Profile](![J4o](https://github.com/IT21562488/IT21562488/assets/99161794/9c172863-f222-4397-83f8-b9f09b1ea78a))
+
+![140059056-5609753a-bc75-48c7-97f7-decd3e07eca3 (1)](https://github.com/IT21562488/IT21562488/assets/99161794/8f1d80be-2d46-4a1a-ab30-06eeca791e01)
+
 <h1 align="center">Hi 👋, I'm Sandali Anjana</h1>
 <h3 align="center">IT undergraduate student</h3>
 
